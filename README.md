@@ -1,1 +1,1 @@
-# Spring Cloud Sample Application
+# Spring Cloud Implementation
